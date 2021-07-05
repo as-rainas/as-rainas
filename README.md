@@ -6,8 +6,10 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/as-rainas/)](https://www.linkedin.com/in/as-rainas/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/5860094/rainas)](https://stackoverflow.com/users/5860094/rainas)
 
+<!--
 ![Rainas's github stats](https://github-readme-stats.vercel.app/api?username=as-rainas&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=as-rainas&layout=compact)
+-->
 
 <!--
 ⚡ Software Engineering at [Virtusa](https://www.virtusa.com/) <br/>
