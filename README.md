@@ -15,7 +15,7 @@ As a backend expert, I specialize in solving complex engineering challenges and 
 
 Let’s build something great!  
 📫 **Email**: rainasmohammed@gmail.com  
-🔗 **LinkedIn**: [Rainas Mohammed](https://www.linkedin.com/in/as-rainas)
+🔗 **LinkedIn**: [Rainas Abdul Salam](https://www.linkedin.com/in/as-rainas)
 
 ---
 
